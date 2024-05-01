@@ -4,10 +4,25 @@
         <title>241saurus Blog</title>
         <link>https://fawzakin.github.io/241saurus/blog/</link>
         <description>241saurus Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Pop Quiz]]></title>
+            <link>https://fawzakin.github.io/241saurus/blog/POP-QUIZ/</link>
+            <guid>https://fawzakin.github.io/241saurus/blog/POP-QUIZ/</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pop Quiz W07 Blog]]></description>
+            <content:encoded><![CDATA[<p>Pop Quiz W07 Blog</p>
+<p>-- Fawzakin, KingGedorah, and Ivanoxx</p>
+<p><img decoding="async" loading="lazy" src="https://static.wikia.nocookie.net/mlp/images/b/bc/Princess_Twilight_Sparkle_ID_S4E26.png" alt="I Love Twilight" class="img_ev3q"></p>
+<p>Twilight Sparkle is the central main character of My Little Pony Friendship is Magic. She is a female unicorn pony who transforms into an Alicorn and becomes a princess in Magical Mystery Cure. She is also the daughter of Twilight Velvet and Night Light, the younger sister of Shining Armor, sister-in-law to Princess Cadance, and paternal aunt to Flurry Heart.</p>
+<p>At the beginning of the series, she and Spike, her best friend and assistant, move from Canterlot to Golden Oak Library in Ponyville to study the magic of friendship, and in Twilight's Kingdom - Part 2, she gains her own castle—the Castle of Friendship—and gains the title "Princess of Friendship". Twilight Sparkle represents the element of magic.</p>
+<p>Before becoming a princess, she regularly sends friendship reports to Princess Celestia. In Owl's Well That Ends Well, Twilight adopts a pet owl named Owlowiscious. As of The Last Problem, she is the ruler of Equestria.</p>]]></content:encoded>
+            <category>POPQUIZ</category>
+            <category>WEEK07</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://fawzakin.github.io/241saurus/blog/welcome/</link>
